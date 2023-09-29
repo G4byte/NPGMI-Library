@@ -1,0 +1,6 @@
+JPARC
+slit, 500e-6
+L1, 4.156
+L, 8.488
+pixel size, 100e-6
+exposure time, 
